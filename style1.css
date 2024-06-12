@@ -1,3 +1,7 @@
+body {
+  font-family: Bierstadt;
+  font-size: 11px;
+}
 p.caption {
   color: #777;
   margin-top: 10px;
@@ -11,4 +15,7 @@ pre {
 }
 pre code {
   white-space: inherit;
+}
+h1, h2, h3 {
+  color: #17455E;
 }

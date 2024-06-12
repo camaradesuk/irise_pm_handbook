@@ -4,6 +4,7 @@ site: bookdown::bookdown_site
 output:
   bookdown::html_document2:
     toc: yes
+    css: style1.css
 ---
 
 # **Project Management Handbook**
