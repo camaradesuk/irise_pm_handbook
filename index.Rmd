@@ -1,10 +1,4 @@
 ---
-title: |
-
-
-     <span style="color:white;">. > </span>
-     
-
 site: bookdown::bookdown_site
 output:
   bookdown::html_document2:
@@ -13,8 +7,6 @@ output:
 ---
 
 # **Project Management Handbook**
-
-<img src="docs/images/logo.png" style="position:absolute;top:0px;height:150px;"/>
 
 ## History of Changes
 
