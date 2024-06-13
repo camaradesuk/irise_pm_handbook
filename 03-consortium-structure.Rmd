@@ -99,7 +99,7 @@ the WP leader. Each individual partner holds ultimate responsibility for
 the technical and administrative outputs assigned to them.\
 
 | WP    | **Task**                                                                                                                                                                     | **Lead**            |
-|:-------------|:------------------------------------------|:-------------|
+|:---------------|:---------------------------------------|:---------------|
 | **1** | 1.1 Background scoping and framing                                                                                                                                           | Bernhard Voelkl     |
 |       | 1.2 Modelling irreproducibility causes and remedies                                                                                                                          | Daniele Fanelli     |
 |       | 1.3 Validating statistical methods to assess and improve reproducibility                                                                                                     | Rachel Heyard       |

@@ -1,6 +1,6 @@
 body {
   font-family: 'Bierstadt', sans-serif;
-  font-size: 12px;
+  font-size: 11px;
 }
 p.caption {
   color: #777;
@@ -18,4 +18,13 @@ pre code {
 }
 h1, h2, h3 {
   color: #17455E;
+}
+.logo-container {
+  position: relative; 
+  margin-top: 20px;   
+}
+
+.logo {
+  height: 50px;      
+  display: block;    
 }

@@ -80,7 +80,7 @@ knowledge is adequate for the task at hand.
 ***Table 1**: Timeline for deliverable review process*
 
 |                         |                                                                                                         |
-|-------------------------|------------------------------------------------|
+|-------------------------|---------------------------------------------------------------------------------------------------------|
 | 1 calendar month before | Deliverable report is available for review in respective MS Teams folder                                |
 |                         | WP lead(s) send email to designated reviewers to inform them the doc is ready for review                |
 |                         | Corresponding WP mailing list is used to inform all WP members that they are able to review and comment |
@@ -94,7 +94,7 @@ knowledge is adequate for the task at hand.
 ***Table 2**: Assigned reviewers and deadlines for deliverables*
 
 |        |                                                                                                                                                                                  |                          |          |                |                            |                          |                  |
-|:--------|:-------|:--------|:--------|:--------|:--------|:--------|:--------|
+|:-------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------|:---------|:---------------|:---------------------------|:-------------------------|:-----------------|
 | **ID** | **Deliverable name**                                                                                                                                                             | **Lead**                 | **Type** | **Due Date**   | **Internal delivery date** | **R1**                   | **R2**           |
 | D7.1   | Project Website                                                                                                                                                                  | Mattera (MIK)            | DEC      | 31/10/<br>2023 | 30/09/<br>2023             | Nilsonne (KI)            | \-               |
 | D6.2   | Data Management Plan                                                                                                                                                             | Currie (UEDIN)           | DMP      | 29/02/<br>2024 | 31/01/<br>2024             | Miller (MIK)             | McCann (Charité) |
