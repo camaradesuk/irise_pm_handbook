@@ -12,10 +12,11 @@ output:
     css: "style1.css"
 ---
 
-<script>
-  document.title = "iRISE Project Management Handbook";
+<script type="text/javascript">
+  document.addEventListener('DOMContentLoaded', function() {
+    document.title = "iRISE Project Management Handbook";
+  });
 </script>
-
 
 # **Project Management Handbook**
 
