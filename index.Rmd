@@ -12,6 +12,11 @@ output:
     css: "style1.css"
 ---
 
+<script>
+  document.title = "iRISE Project Management Handbook";
+</script>
+
+
 # **Project Management Handbook**
 
 <img src="docs/images/logo.png" style="position:absolute;top:0px;height:150px;"/>
