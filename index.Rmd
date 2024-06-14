@@ -1,10 +1,4 @@
 ---
-title: |
-
-
-     <span style="color:white;">. > </span>
-     
-
 site: bookdown::bookdown_site
 output:
   bookdown::html_document2:
@@ -12,22 +6,7 @@ output:
     css: "style1.css"
 ---
 
-```{r include=FALSE}
-library(htmltools)
-
-# Inject JavaScript to change the tab title
-tags$script(HTML('
-  document.addEventListener("DOMContentLoaded", function() {
-    document.title = "iRISE Project Management Handbook";
-  });
-')) 
-```
-
-
 # **Project Management Handbook**
-
-<img src="docs/images/logo.png" style="position:absolute;top:0px;height:150px;"/>
-
 ## History of Changes
 
 -   Change of PM\
