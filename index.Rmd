@@ -12,11 +12,17 @@ output:
     css: "style1.css"
 ---
 
-<script type="text/javascript">
-  document.addEventListener('DOMContentLoaded', function() {
+```{r include=FALSE}
+library(htmltools)
+
+# Inject JavaScript to change the tab title
+tags$script(HTML('
+  document.addEventListener("DOMContentLoaded", function() {
     document.title = "iRISE Project Management Handbook";
   });
-</script>
+')) 
+```
+
 
 # **Project Management Handbook**
 
