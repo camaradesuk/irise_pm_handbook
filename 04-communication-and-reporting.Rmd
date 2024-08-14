@@ -11,7 +11,7 @@ Day-to-day communication will be based on emails. All emails should include "iRI
 **WP meetings**: To keep all WP members and project partners up-to-date and coordinate tasks, monthly meetings will be held for each WP. WP leaders will organize and chair the meeting with their WP members. During the first quarter of the project, WP leaders have defined that their monthly meetings will be held according to the information provided in the following table:
 
 | WP  | Date/Time (e.g. First Tuesday of the month 10am CET)                                                        |
-|:-----------------|:-----------------------------------------------------|
+|:----|:------------------------------------------------------------------------------------------------------------|
 | 1   | First Friday of month 2:30pm CET (subject to change)                                                        |
 | 2   | Every 14 days (on a Tuesday) 1:00pm CET                                                                     |
 | 3   | First Tuesday of a month, 10-11 am CET, intended to be changed to more frequent meetings once the WP starts |
@@ -83,3 +83,40 @@ All partners will be asked to contribute to WP plans which will be put together 
 ### Financial Reporting every 6 Months
 
 Every 6 months, the controlling team at the coordinating institution will further send out an excel-sheet for reporting on financial resources. All partners are asked to report their use of resources in the respective tab of this document.
+
+## Milestone Review Process
+
+The Milestone Review Process in the iRISE project ensures that milestones are completed and reviewed on time. The lead author, usually the task lead, is responsible for storing milestone reports in the appropriate Microsoft Teams/ SharePoint folder and notifying the Consortium via email by the deadline.\
+For milestones not documented by meeting minutes, a designated reviewer from the Consortium, who is not heavily involved in the milestone's creation, reviews the work. This reviewer provides comments or suggested changes using the track changes feature. The lead author must then address these comments promptly to finalise the milestone. The timeline for the review process is outlined in Table 1, with specific reviewer assignments detailed in Table 2. Table 1, which outlines the review process in relation to the due date of each milestone. This due date is always the last day of the month as specified in the Description of Action.\
+Consortium-wide meeting minutes, which serve as evidence for certain milestones, are circulated to the entire Consortium, following the procedures outlined in the Grant Agreement. This ensures that all members are kept informed and that the process remains transparent.\
+If a reviewer is no longer part of the project, their partner institution must reassign the task and propose the new reviewer to the project co-coordinators for approval. This structured process ensures that all milestones are reviewed thoroughly and completed on schedule, supporting the overall progress of the project.
+
+***Table 1**: Timeline for milestone review process*
+
+|                     |                                                                                                         |
+|---------------------|---------------------------------------------------------------------------------------------------------|
+| 14^th^ of the month | Milestone document is available for review in respective MS Teams/SharePoint folder                     |
+|                     | Task lead(s) send email to designated reviewer to inform them the doc is ready for review               |
+|                     | Corresponding WP mailing list is used to inform all WP members that they are able to review and comment |
+| 21^st^ of the month | Reviews are available in Teams doc                                                                      |
+| 28^th^ of the month | Lead author completes cycle of revisions                                                                |
+|                     | Whole consortium is able to comment                                                                     |
+| 2 days before       | WP lead(s) do final quality check                                                                       |
+| Due date            | Final version is available on MS Teams/SharePoint Milestone folder                                      |
+
+***Table 2**: Assigned reviewers and deadlines for milestones*
+
+|        |                                                                                |                 |                           |              |                            |                   |
+|--------|--------------------------------------------------------------------------------|-----------------|---------------------------|--------------|----------------------------|-------------------|
+| **ID** | **Milestone name**                                                             | **Lead**        | **Means of Verification** | **Due Date** | **Internal delivery date** | **Reviewer**      |
+| MS4    | Review protocol for iRISE-SOLES registered                                     | Hair (UEDIN)    | Made available on website | 30/11/2023   | 14/11/2023                 | \-                |
+| MS13   | Publish a Project Management Handbook                                          |  (MIK)          | internal report           | 30/11/2023   | 14/11/2023                 | \-                |
+| MS14   | Initial evaluation of gender balance complete                                  |  (MIK)          | internal report           | 29/02/2024   | 14/02/2024                 | \-                |
+| MS1    | Submission for publication of literature and scoping reviews                   | Heyard (UZH)    | internal report           | 31/08/2024   | 14/08/2024                 | Hooijmans (RUMC)  |
+| MS5    | Framework on how to determine the EDI impacts of interventions                 | Miller (MIK)    | internal report           | 31/08/2024   | 14/08/2024                 | Scherer (UH)      |
+| MS2    | Pre-registration of protocols for the different simulation studies in Task 1.3 | Heyard (UZH)    | Made available on website | 28/02/2025   | 14/02/2025                 | Smith (UEDIN)     |
+| MS6    | Results from the first Delphi consultation round                               | Marušić (MEFST) | internal report           | 28/02/2025   | 14/02/2025                 | Voelkl (UBERN)    |
+| MS7    | First focus group held                                                         | Marušić (MEFST) | minutes                   | 31/05/2025   | 14/05/2025                 | Rackoll (Charité) |
+| MS3    | Pre-registration of predictions for Task 1.5a                                  | Heyard (UZH)    | Made available on website | 31/08/2025   | 14/08/2025                 | Haven (TU)        |
+| MS10   | Revised DMP                                                                    | Currie (UEDIN)  | Made available on website | 31/08/2025   | 14/08/2025                 | Maniadis (UCY)    |
+| MS8    | Synthesis event report completed                                               |  Wever (RUMC)   | internal report           | 30/06/2026   | 14/06/2026                 | Gopalakrishna ()  |

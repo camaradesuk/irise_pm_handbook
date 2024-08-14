@@ -7,16 +7,17 @@ output:
 ---
 
 # **Project Management Handbook**
+
 ## History of Changes
 
--   Change of PM\
--   Deliverable review timeline
-
-|                                  |             |                  |                                                                                                                                |
+| **Date**                                  |                | **Page/section** | **Nature of change and reason / justification of change proposed**                                                             |
 |------------------|------------------|------------------|-------------------|
-| **Date**                         |             | **Page/section** | **Nature of change and reason / justification of change proposed**                                                             |
-| **Change of project manager**    | 07 May 2024 | Throughout       | Our named project manager changed from Marina Mattera to Rebecca Fischer -- this is has been reflected throughout the document |
-| **Change in Steering Committee** | 07 May 2024 |                  |                                                                                                                                |
+| **Change of project manager**             | 07 May 2024    | Throughout       | Our named project manager changed from Marina Mattera to Rebecca Fischer -- this is has been reflected throughout the document |
+| **Change in Steering Committee**          | 07 May 2024    | Throughout       | Gustav Nilsonne has stepped down as co-lead for WP5 and no longer sits on the SC                                               |
+| **Change in Deliverable review timeline** | 07 May 2024    | Section 8.2      | Adjustment of deliverable review timeline to allow for edits to be made in response to reviewer comments                       |
+| **Correction of dates**                   | 13 Aug 2024    | Section 8.2      | Corrected dates for deliverable deadlines                                                                                      |
+| **Addition of section**                   | 13 Aug 2024    | Section 5.6      | Addition of Milestone Review Process                                                                                           |
+| **Addition of linked resource**           | 14 August 2024 | Section 1.3      | Addition of link to Completed Milestones folder on SharePoint                                                                  |
 
 ## List of Abbreviations
 
@@ -76,6 +77,8 @@ output:
     -   [Deliverable Template](https://charitede.sharepoint.com/:w:/r/sites/iRISE/Shared%20Documents/General/iRISE%20Dissemination_Communication_Templates/Templates/DeliverableTemplate.docx?d=w4ec2474158ab425f86655df0f923297d&csf=1&web=1&e=drgFm9)
 
 -   [Deliverables Submitted Folder](https://charitede.sharepoint.com/:f:/r/sites/iRISE/Shared%20Documents/General/Project%20Outputs%20(Deliverables,%20Milestones,%20Papers)/Deliverables%20submitted?csf=1&web=1&e=L4NinF)
+
+-   [Milestones folder](https://charitede.sharepoint.com/:f:/r/sites/iRISE/Shared%20Documents/General/Project%20Outputs%20(Deliverables,%20Milestones,%20Papers)/Milestones?csf=1&web=1&e=JOQE7E)
 
 -   [iRISE Project Management Planner](https://tasks.office.com/charitede.onmicrosoft.com/en-US/Home/Planner/#/plantaskboard?groupId=63cd0d10-aa1b-4db9-9bb0-ed23b58ec69b&planId=P4fliqzuUEeyiZo6z3Z3L5YAAegq)
 
