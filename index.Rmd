@@ -11,7 +11,7 @@ output:
 ## History of Changes
 
 | **Date**                                  |             | **Page/section** | **Nature of change and reason / justification of change proposed**                                                             |
-|------------------|------------------|------------------|-------------------|
+|-------------------------------------------|-------------|------------------|--------------------------------------------------------------------------------------------------------------------------------|
 | **Change of project manager**             | 07 May 2024 | Throughout       | Our named project manager changed from Marina Mattera to Rebecca Fischer -- this is has been reflected throughout the document |
 | **Change in Steering Committee**          | 07 May 2024 | Throughout       | Gustav Nilsonne has stepped down as co-lead for WP5 and no longer sits on the SC                                               |
 | **Change in Deliverable review timeline** | 07 May 2024 | Section 8.2      | Adjustment of deliverable review timeline to allow for edits to be made in response to reviewer comments                       |
@@ -22,7 +22,7 @@ output:
 ## List of Abbreviations
 
 |        |                                                                                          |
-|--------------------------|----------------------------------------------|
+|--------|------------------------------------------------------------------------------------------|
 | D      | Deliverable                                                                              |
 | DMP    | Data Management Plan                                                                     |
 | DoA    | Description of the Action                                                                |
